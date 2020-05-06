@@ -1,4 +1,4 @@
 # Videos
-YouTube demo app  
-https://timtho.github.io/Videos/  
-Used google API key works only for this url.
+Video search app using google/youtube API 
+https://mkarasinski.github.io/Videos/ 
+
